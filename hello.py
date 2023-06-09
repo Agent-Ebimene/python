@@ -22,3 +22,5 @@ print(person["name"])
 
 coordinates=(0,1,2,3,4,5,5,5)
 print(coordinates.count(5))
+name =input("What is your name ?")
+print("Cool, your name is "+ name)
